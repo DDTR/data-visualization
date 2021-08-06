@@ -1,6 +1,6 @@
 # -!- coding=utf-8 -!-
 from random import randint
-
+#
 class Die():
     """创建一个骰子的类"""
 
